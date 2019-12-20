@@ -1,0 +1,3 @@
+linux 查看文件大小，以M为单位： ls –lh xxxx , ls –lht
+   du –sh 统计文件夹总大小
+   du -h --max-depth=1 /home
